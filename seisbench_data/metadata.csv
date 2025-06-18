@@ -1,0 +1,3 @@
+trace_name,split,station,channel,start_time,end_time,sampling_rate,latitude,longitude,magnitude
+2024-01-01-0033-42L_trace,train,SJA,BHZ,2025-06-18T12:22:44.435611,2025-06-18T12:22:44.435611,100.0,-30.564,-69.712,2.4
+2024-01-01-0100-06R_trace,train,SJA,BHZ,2025-06-18T12:22:44.435611,2025-06-18T12:22:44.435611,100.0,-30.564,-69.712,2.4
